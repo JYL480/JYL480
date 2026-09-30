@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lee Jun Yang
 ====================================================================================================================================
 
-Computer Engineering Student @ NTU
+BEng Computer Engineer @ NTU Singapore | MSc Machine Learning @ UCL UK, London 
 ----------------------------------
 
 I did my undergrad in computer engineering at Nanyang Technological University (NTU), with a focus in Artificial Intelligence. I am currently pursuing my MSc in Machine Learning @ University College London
