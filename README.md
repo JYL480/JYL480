@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineering Student @ NTU
 ----------------------------------
 
-I am studying computer engineering at Nanyang Technological University (NTU), with a focus on software development and hardware design.
+I did my undergrad in computer engineering at Nanyang Technological University (NTU), with a focus in Artificial Intelligence. I am currently pursuing my MSc in Machine Learning @ University College London
 
-* 🌍  I'm based in Singapore
-* 🖥️  See my portfolio at [My Website](http://portfolio-25612.web.app/)
-* ✉️  You can contact me at [c220096@e.ntu.edu.sg](mailto:c220096@e.ntu.edu.sg)
-* 🧠  I'm learning Machine Learning - Pytorch
+* 🌍  I'm from Singapore currently based in United Kingdom, London 
+* ✉️  You can contact me at [c220096@e.ntu.edu.sg](mailto:c220096@e.ntu.edu.sg) / [jun.lee.26@ucl.ac.uk]
+* 🧠  My Goal is to become a Machine Learning Engineer
 ### Skills
 
 
